@@ -1,5 +1,7 @@
-# resume-checklist
 Part of Udemy Course on Mastering the Coding Interview
+
+**Resume Cheat Sheet**
+---------------
 
 ✅Use a pre-designed resume template    
 ✅Make the resume fit on 1 page   
