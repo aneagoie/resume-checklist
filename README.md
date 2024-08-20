@@ -1,5 +1,5 @@
 Part of ZTM Course on Mastering the Coding Interview.
-*visist https://zerotomastery.io/ for more career advice*
+*visist https://zerotomastery.io/ for more career advice!*
 
 **Resume Cheat Sheet**
 ---------------
