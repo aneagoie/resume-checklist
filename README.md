@@ -1,5 +1,8 @@
 *visist https://zerotomastery.io/ for more career advice!*
 
+Complete list and more info can be found here: [https://zerotomastery.io/courses/land-your-dream-job/](https://zerotomastery.io/courses/land-your-dream-job/)
+
+
 **Resume Cheat Sheet**
 ---------------
 
